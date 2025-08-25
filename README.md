@@ -30,6 +30,9 @@ The dashboard provides a clear view of survival, death events, and health condit
 
 ## 📑 Dataset
 - Dataset: **Heart Disease Dataset**  
+- Source: https://github.com/susmithachaganti/Heart-Disease-Dashboard/blob/main/Heart_Disease_Dataset.xlsx
+- ## 📷 Image Preview
+        https://github.com/susmithachaganti/Heart-Disease-Dashboard/blob/main/heart%20image.png
 
 ## 🚀 How to Use
 1. Clone this repository  
